@@ -1,0 +1,13 @@
+{
+	"required": true,
+	"package": "live.kadalyn.herdiercraft.mixin.client",
+	"compatibilityLevel": "JAVA_25",
+	"client": [
+		"ExtractItemHotbarMixin",
+		"InventoryMixin",
+		"MinecraftMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

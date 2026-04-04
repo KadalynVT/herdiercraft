@@ -12,7 +12,8 @@ import net.minecraft.world.item.Item;
 import java.util.function.Function;
 
 public class HerdierItems {
-    public static final ActionItem ROTATE_ACTION = register("rotate_action", RotateAction::new, new RotateAction.Properties());
+    public static final ActionItem ROTATE_ACTION = register("rotate_action", RotateAction::new,
+        (new Item.Properties()).stacksTo(1).attributes(RotateAction.createAttributes()));
 
     public static <T extends Item> T register(String name, Function<Item.Properties, T> itemFactory, Item.Properties settings) {
         // Create the item key.

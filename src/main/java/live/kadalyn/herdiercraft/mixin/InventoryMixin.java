@@ -1,4 +1,4 @@
-package live.kadalyn.herdiercraft.mixin.client;
+package live.kadalyn.herdiercraft.mixin;
 
 import com.llamalad7.mixinextras.injector.ModifyReturnValue;
 import net.minecraft.world.entity.player.Inventory;

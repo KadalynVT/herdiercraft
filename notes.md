@@ -55,7 +55,7 @@ things to move
 - [ ] books sucked into lecturns
 - [ ] flowers sucked into flower pots
 - [ ] glowstone stucked into respawn anchors
-- [x] mounting horses
+- [x] mounting horses, donkeys, llamas
 - [ ] building dripstone connects it to other dripstone
 - [x] apply wax (right click wax)
 - [ ] planting seeds?

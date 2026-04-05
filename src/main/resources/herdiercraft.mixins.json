@@ -3,7 +3,11 @@
   "package": "live.kadalyn.herdiercraft.mixin",
   "compatibilityLevel": "JAVA_25",
   "mixins": [
+    "AbstractChestedHorseMixin",
+    "AbstractHorseMixin",
+    "AbstractNautilusMixin",
     "BuildActionMixin",
+    "CamelMixin",
     "HorseMixin",
     "InventoryMixin",
     "LivingBlockTypesMixin",

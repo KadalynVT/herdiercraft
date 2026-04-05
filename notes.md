@@ -48,13 +48,14 @@ things to move
 * hanging signs: rotation, attached
 * pointed dripstone: vertical_direction
 
-## other things to do
+## things to do
 
-* place redstone dust
-* books sucked into lecturns
-* flowers sucked into flower pots
-* glowstone stucked into respawn anchors
-* mounting mobs
-* building dripstone connects it to other dripstone
-* apply wax (right click wax)
-* planting seeds?
+- [x] rotate action
+- [x] place redstone dust
+- [ ] books sucked into lecturns
+- [ ] flowers sucked into flower pots
+- [ ] glowstone stucked into respawn anchors
+- [x] mounting horses
+- [ ] building dripstone connects it to other dripstone
+- [x] apply wax (right click wax)
+- [ ] planting seeds?

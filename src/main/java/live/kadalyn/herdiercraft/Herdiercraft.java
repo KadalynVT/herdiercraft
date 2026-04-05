@@ -3,6 +3,9 @@ package live.kadalyn.herdiercraft;
 import live.kadalyn.herdiercraft.item.HerdierItems;
 import net.fabricmc.api.ModInitializer;
 
+import net.minecraft.core.Registry;
+import net.minecraft.core.registries.BuiltInRegistries;
+import net.minecraft.world.entity.livingblock.LivingBlockTypes;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

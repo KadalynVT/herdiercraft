@@ -18,7 +18,7 @@
 			"live.kadalyn.herdiercraft.Herdiercraft"
 		],
 		"client": [
-			"live.kadalyn.herdiercraft.ExampleModClient"
+			"live.kadalyn.herdiercraft.HerdiercraftClient"
 		]
 	},
 	"mixins": [

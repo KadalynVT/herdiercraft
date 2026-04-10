@@ -52,10 +52,10 @@ things to move
 
 - [x] rotate action
 - [x] place redstone dust
-- [ ] books sucked into lecturns
-- [ ] flowers sucked into flower pots
-- [ ] glowstone stucked into respawn anchors
+- [x] flowers sucked into flower pots
+- [ ] glowstone sucked into respawn anchors
 - [x] mounting horses, donkeys, llamas
 - [ ] building dripstone connects it to other dripstone
 - [x] apply wax (right click wax)
-- [ ] planting seeds?
+- [x] apply dyes/glow ink to signs
+- [x] planting seeds

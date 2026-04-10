@@ -8,6 +8,7 @@
     "AbstractNautilusMixin",
     "BuildActionMixin",
     "CamelMixin",
+    "FlowerPotBlockAccessor",
     "HorseMixin",
     "InventoryMixin",
     "LivingBlockTypesMixin",

@@ -1,0 +1,7 @@
+classTweaker v1 official
+accessible field net/minecraft/world/entity/livingblock/LivingBlockTypeRegistry$Builder itemLookup Ljava/util/List;
+accessible method net/minecraft/world/entity/livingblock/behavior/BuildBehavior <init> (Lnet/minecraft/world/entity/livingblock/cognition/Prize;Lnet/minecraft/world/entity/livingblock/cognition/Intent;)V
+accessible method net/minecraft/world/entity/livingblock/behavior/BuildBehavior findTarget (Lnet/minecraft/server/level/ServerLevel;)Lnet/minecraft/core/BlockPos;
+accessible field net/minecraft/world/entity/livingblock/behavior/BuildBehavior currentTarget Lnet/minecraft/core/BlockPos;
+accessible field net/minecraft/world/entity/livingblock/behavior/BuildBehavior target Lnet/minecraft/world/entity/livingblock/cognition/Prize;
+accessible field net/minecraft/world/entity/livingblock/behavior/BuildBehavior move Lnet/minecraft/world/entity/livingblock/cognition/Intent;
